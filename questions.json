@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What is the name of the actor who played Tony Stark (Iron Man) in Marvel movies?",
+        "options": ["Robert Downey Jr.", "Chris Evans", "Chris Hemsworth", "Mark Ruffalo"],
+        "correctAnswer": "A"
+    },
+    {
+        "question": "What role did Meryl Streep play in 'The Devil Wears Prada'?",
+        "options": ["Journalist", "Model", "Businesswoman", "Fashion Editor"],
+        "correctAnswer": "D"
+    },
+    {
+        "question": "What is the name of Johnny Depp's character in the 'Pirates of the Caribbean' series?",
+        "options": ["Jack Sparrow", "Jack Sparrow", "Jack Gear", "Jack Compass"],
+        "correctAnswer": "B"
+    },
+    {
+        "question": "In which movie did Emma Watson play the role of Hermione Granger?",
+        "options": ["Harry Potter and the Philosopher's Stone", "Harry Potter and the Chamber of Secrets", "Harry Potter and the Prisoner of Azkaban", "Harry Potter and the Goblet of Fire"],
+        "correctAnswer": "A"
+    },
+    {
+        "question": "Who played the lead role in 'Avengers: Endgame'?",
+        "options": ["Chris Hemsworth", "Chris Evans", "Robert Downey Jr.", "Scarlett Johansson"],
+        "correctAnswer": "C"
+    },
+    {
+        "question": "Who played the role of Luke Skywalker in the original 'Star Wars' trilogy?",
+        "options": ["Mark Hamill", "Harrison Ford", "Carrie Fisher", "David Prowse"],
+        "correctAnswer": "A"
+    },
+    {
+        "question": "What is the name of the actor who played the lead role in 'The Godfather'?",
+        "options": ["Al Pacino", "Robert De Niro", "Marlon Brando", "James Caan"],
+        "correctAnswer": "C"
+    },
+    {
+        "question": "Who played the role of James Bond in 'Skyfall'?",
+        "options": ["Daniel Craig", "Pierce Brosnan", "Roger Moore", "Sean Connery"],
+        "correctAnswer": "A"
+    },
+    {
+        "question": "In which movie did Natalie Portman play the role of Mathilda?",
+        "options": ["Leon: The Professional", "Black Swan", "Leon", "Star Wars: Episode I – The Phantom Menace"],
+        "correctAnswer": "A"
+    },
+    {
+        "question": "What is the name of the actress who played the role of Rose in 'Titanic'?",
+        "options": ["Kate Winslet", "Sandra Bullock", "Jennifer Lawrence", "Meryl Streep"],
+        "correctAnswer": "A"
+    },
+    {
+        "question": "Who played the lead role in 'The Lord of the Rings: The Fellowship of the Ring'?",
+        "options": ["Elijah Wood", "Viggo Mortensen", "Sean Bean", "Hugo Weaving"],
+        "correctAnswer": "A"
+    },
+    {
+        "question": "In which movie did Tom Hanks play the role of Forrest Gump?",
+        "options": ["Forrest Gump", "The Green Mile", "Blade Runner", "Saving Private Ryan"],
+        "correctAnswer": "A"
+    },
+    {
+        "question": "What is the name of the actress who played the lead role in 'Brave'?",
+        "options": ["Emma Watson", "Keira Knightley", "Julia Roberts", "Jennifer Lawrence"],
+        "correctAnswer": "C"
+    },
+    {
+        "question": "Who played the lead role in 'Venom'?",
+        "options": ["Tom Hardy", "Jake Gyllenhaal", "Ryan Gosling", "Michael Fassbender"],
+        "correctAnswer": "A"
+    },
+    {
+        "question": "Who played the role of Joker in 'The Dark Knight'?",
+        "options": ["Heath Ledger", "Jack Nicholson", "Joaquin Phoenix", "Christian Bale"],
+        "correctAnswer": "A"
+    },
+    {
+        "question": "What is the name of the actor who played Sam in 'The Lord of the Rings: The Two Towers'?",
+        "options": ["Sean Astin", "Ian McKellen", "Andy Serkis", "Sir Ian McKellen"],
+        "correctAnswer": "A"
+    },
+    {
+        "question": "In which movie did Arnold Schwarzenegger play the role of the Terminator?",
+        "options": ["The Terminator", "Total Recall", "Predator", "Aliens"],
+        "correctAnswer": "A"
+    },
+    {
+        "question": "What is the name of the actress who played the lead role in 'The Hunger Games'?",
+        "options": ["Jennifer Lawrence", "Emma Watson", "Kate Winslet", "Natalie Portman"],
+        "correctAnswer": "A"
+    },
+    {
+        "question": "Who played the lead role in 'The Wolf of Wall Street'?",
+        "options": ["Leonardo DiCaprio", "Matthew McConaughey", "Christian Bale", "Johnny Depp"],
+        "correctAnswer": "A"
+    },
+    {
+        "question": "Who played the role of Daniel Ocean in 'A Beautiful Mind'?",
+        "options": ["Russell Crowe", "Matt Damon", "Ben Affleck", "Leonardo DiCaprio"],
+        "correctAnswer": "B"
+    }
+]
